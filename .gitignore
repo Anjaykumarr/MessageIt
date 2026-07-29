@@ -1,0 +1,24 @@
+# ---------- macOS ----------
+.DS_Store
+
+# ---------- VS Code ----------
+.vscode/
+
+# ---------- .NET ----------
+bin/
+obj/
+
+# ---------- React ----------
+node_modules/
+dist/
+
+# ---------- Environment ----------
+.env
+.env.local
+
+# ---------- Logs ----------
+*.log
+
+# ---------- User files ----------
+*.user
+*.suo
