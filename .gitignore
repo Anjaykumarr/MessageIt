@@ -24,4 +24,4 @@ dist/
 *.suo
 
 # ---------- appsettings.json ----------
-ChatApp.API/appsettings.json
+backend/ChatApp.API/appsettings.json
