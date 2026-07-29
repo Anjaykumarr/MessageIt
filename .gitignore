@@ -22,3 +22,6 @@ dist/
 # ---------- User files ----------
 *.user
 *.suo
+
+# ---------- appsettings.json ----------
+ChatApp.API/appsettings.json
