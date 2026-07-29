@@ -1,0 +1,11 @@
+/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/bin/Debug/net10.0/ChatApp.Models.deps.json
+/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/bin/Debug/net10.0/ChatApp.Models.dll
+/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/bin/Debug/net10.0/ChatApp.Models.pdb
+/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/obj/Debug/net10.0/ChatApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/obj/Debug/net10.0/ChatApp.Models.AssemblyInfoInputs.cache
+/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/obj/Debug/net10.0/ChatApp.Models.AssemblyInfo.cs
+/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/obj/Debug/net10.0/ChatApp.Models.csproj.CoreCompileInputs.cache
+/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/obj/Debug/net10.0/ChatApp.Models.dll
+/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/obj/Debug/net10.0/refint/ChatApp.Models.dll
+/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/obj/Debug/net10.0/ChatApp.Models.pdb
+/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/obj/Debug/net10.0/ref/ChatApp.Models.dll

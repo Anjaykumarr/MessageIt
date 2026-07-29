@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../ChatApp.Models/ChatApp.Models.csproj" />
+    <ProjectReference Include="../ChatApp.Repos/ChatApp.Repos.csproj" />
+  </ItemGroup>
+
+</Project>
