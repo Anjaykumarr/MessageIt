@@ -15,7 +15,7 @@ function LandingPage() {
                     and teams from anywhere.
                 </p>
 
-                <button onClick={() => navigate("/home")}>
+                <button onClick={() => navigate("/home")}> 
                     Get Started
                 </button>
             </div>
