@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/ChatApp.Models.csproj",
+      "projectUniqueName": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Models/ChatApp.Models.csproj",
       "projectName": "ChatApp.Models",
-      "projectPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/ChatApp.Models.csproj",
+      "projectPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Models/ChatApp.Models.csproj",
       "packagesPath": "/Users/anjaykumar/.nuget/packages/",
-      "outputPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/obj/",
+      "outputPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Models/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anjaykumar/.nuget/NuGet/NuGet.Config"

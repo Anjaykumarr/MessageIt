@@ -554,11 +554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anjaykumar/Documents/mit/backend/ChatApp.API/ChatApp.API.csproj",
+      "projectUniqueName": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.API/ChatApp.API.csproj",
       "projectName": "ChatApp.API",
-      "projectPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.API/ChatApp.API.csproj",
+      "projectPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.API/ChatApp.API.csproj",
       "packagesPath": "/Users/anjaykumar/.nuget/packages/",
-      "outputPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.API/obj/",
+      "outputPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anjaykumar/.nuget/NuGet/NuGet.Config"
@@ -574,11 +574,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/ChatApp.Models.csproj": {
-              "projectPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/ChatApp.Models.csproj"
+            "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Models/ChatApp.Models.csproj": {
+              "projectPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Models/ChatApp.Models.csproj"
             },
-            "/Users/anjaykumar/Documents/mit/backend/ChatApp.Services/ChatApp.Services.csproj": {
-              "projectPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Services/ChatApp.Services.csproj"
+            "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Services/ChatApp.Services.csproj": {
+              "projectPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Services/ChatApp.Services.csproj"
             }
           }
         }

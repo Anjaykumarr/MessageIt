@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anjaykumar/Documents/mit/backend/ChatApp.Services/ChatApp.Services.csproj": {}
+    "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Services/ChatApp.Services.csproj": {}
   },
   "projects": {
-    "/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/ChatApp.Models.csproj": {
+    "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Models/ChatApp.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/ChatApp.Models.csproj",
+        "projectUniqueName": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Models/ChatApp.Models.csproj",
         "projectName": "ChatApp.Models",
-        "projectPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/ChatApp.Models.csproj",
+        "projectPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Models/ChatApp.Models.csproj",
         "packagesPath": "/Users/anjaykumar/.nuget/packages/",
-        "outputPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/obj/",
+        "outputPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anjaykumar/.nuget/NuGet/NuGet.Config"
@@ -339,14 +339,14 @@
         }
       }
     },
-    "/Users/anjaykumar/Documents/mit/backend/ChatApp.Repos/ChatApp.Repos.csproj": {
+    "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Repos/ChatApp.Repos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Repos/ChatApp.Repos.csproj",
+        "projectUniqueName": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Repos/ChatApp.Repos.csproj",
         "projectName": "ChatApp.Repos",
-        "projectPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Repos/ChatApp.Repos.csproj",
+        "projectPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Repos/ChatApp.Repos.csproj",
         "packagesPath": "/Users/anjaykumar/.nuget/packages/",
-        "outputPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Repos/obj/",
+        "outputPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Repos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anjaykumar/.nuget/NuGet/NuGet.Config"
@@ -680,14 +680,14 @@
         }
       }
     },
-    "/Users/anjaykumar/Documents/mit/backend/ChatApp.Services/ChatApp.Services.csproj": {
+    "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Services/ChatApp.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Services/ChatApp.Services.csproj",
+        "projectUniqueName": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Services/ChatApp.Services.csproj",
         "projectName": "ChatApp.Services",
-        "projectPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Services/ChatApp.Services.csproj",
+        "projectPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Services/ChatApp.Services.csproj",
         "packagesPath": "/Users/anjaykumar/.nuget/packages/",
-        "outputPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Services/obj/",
+        "outputPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anjaykumar/.nuget/NuGet/NuGet.Config"
@@ -703,11 +703,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/ChatApp.Models.csproj": {
-                "projectPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Models/ChatApp.Models.csproj"
+              "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Models/ChatApp.Models.csproj": {
+                "projectPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Models/ChatApp.Models.csproj"
               },
-              "/Users/anjaykumar/Documents/mit/backend/ChatApp.Repos/ChatApp.Repos.csproj": {
-                "projectPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Repos/ChatApp.Repos.csproj"
+              "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Repos/ChatApp.Repos.csproj": {
+                "projectPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Repos/ChatApp.Repos.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aS8QtxRBzng=",
+  "dgSpecHash": "cuZyR4th0MU=",
   "success": true,
-  "projectFilePath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Repos/ChatApp.Repos.csproj",
+  "projectFilePath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Repos/ChatApp.Repos.csproj",
   "expectedPackageFiles": [
     "/Users/anjaykumar/.nuget/packages/microsoft.extensions.configuration/10.0.10/microsoft.extensions.configuration.10.0.10.nupkg.sha512",
     "/Users/anjaykumar/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.10/microsoft.extensions.configuration.abstractions.10.0.10.nupkg.sha512",

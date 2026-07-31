@@ -159,11 +159,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Repos/ChatApp.Repos.csproj",
+      "projectUniqueName": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Repos/ChatApp.Repos.csproj",
       "projectName": "ChatApp.Repos",
-      "projectPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Repos/ChatApp.Repos.csproj",
+      "projectPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Repos/ChatApp.Repos.csproj",
       "packagesPath": "/Users/anjaykumar/.nuget/packages/",
-      "outputPath": "/Users/anjaykumar/Documents/mit/backend/ChatApp.Repos/obj/",
+      "outputPath": "/Users/anjaykumar/Documents/mit/MessageIt/backend/ChatApp.Repos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anjaykumar/.nuget/NuGet/NuGet.Config"
