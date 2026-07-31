@@ -1,8 +1,25 @@
-import { useNavigate } from "react-router-dom";
+import { useState, useEffect } from "react";
+import { routes } from "../api/routeService";
 import "./styles/LandingPage.css";
 
 function LandingPage() {
-    const navigate = useNavigate();
+
+    
+    const [buttons, setButtons] = useState([]);
+    
+    const loadButtons = async () => {
+        try {
+            const response = await routes.getButtons();
+            
+            setButtons(response.data);
+        } catch (error) {
+            console.error(error);
+        }
+    };
+    
+    useEffect(() => {
+        loadButtons();
+    }, []);
 
     return (
         <div className="landing">
@@ -15,7 +32,7 @@ function LandingPage() {
                     and teams from anywhere.
                 </p>
 
-                <button onClick={() => navigate("/home")}> 
+                <button onClick={() => rorutes.nextPage()}> 
                     Get Started
                 </button>
             </div>
